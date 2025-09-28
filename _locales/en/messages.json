@@ -1,0 +1,9 @@
+{
+  "extName": { "message": "Freedium Redirect" },
+  "extDesc": { "message": "Open Medium articles via Freedium" },
+  "menuTitle": { "message": "Open with Freedium" },
+  "optionLanguage": { "message": "Language" },
+  "optionMode": { "message": "Mode" },
+  "modeAuto": { "message": "Automatic redirect (premium)" },
+  "modeManual": { "message": "Manual via context menu" }
+}
