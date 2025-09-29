@@ -42,16 +42,16 @@ et ce projet adhère au [Versioning Sémantique](https://semver.org/lang/fr/).
 
 | Hash | Date | Description |
 |------|------|-------------|
-| `cb31cc7` | 2024-12-19 | Vérification pour éviter le traitement de freedium.cfd comme un site Medium |
-| `b0e3c46` | 2024-12-19 | Mode automatique + gestion dynamique des domaines Medium |
-| `74363e0` | 2024-12-19 | Remplacement des icônes PNG par SVG |
-| `c68d2ba` | 2024-12-19 | Ajout du fichier LICENSE |
-| `1cb3b01` | 2024-12-19 | Ajout du README.md principal |
-| `7a090ec` | 2024-12-19 | Ajout du README.md des icônes |
-| `99fb23e` | 2024-12-19 | Ajout du fichier options.js |
-| `129cc6a` | 2024-12-19 | Correction de bugs dans options.js |
-| `3d27bdc` | 2024-12-19 | Ajout du fichier manifest.json |
-| `37390a2` | 2024-12-19 | Plan technique initial + structure du projet |
+| `cb31cc7` | 2025-09-29 | Vérification pour éviter le traitement de freedium.cfd comme un site Medium |
+| `b0e3c46` | 2025-09-29 | Mode automatique + gestion dynamique des domaines Medium |
+| `74363e0` | 2025-09-29 | Remplacement des icônes PNG par SVG |
+| `c68d2ba` | 2025-09-28 | Ajout du fichier LICENSE |
+| `1cb3b01` | 2025-09-28 | Ajout du README.md principal |
+| `7a090ec` | 2025-09-28 | Ajout du README.md des icônes |
+| `99fb23e` | 2025-09-28 | Ajout du fichier options.js |
+| `129cc6a` | 2025-09-28 | Correction de bugs dans options.js |
+| `3d27bdc` | 2025-09-28 | Ajout du fichier manifest.json |
+| `37390a2` | 2025-09-28 | Plan technique initial + structure du projet |
 
 ---
 
