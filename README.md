@@ -2,6 +2,11 @@
 
 Une extension Chrome qui redirige automatiquement les articles Medium premium vers [Freedium](https://freedium.cfd) pour un accès gratuit.
 
+## Screenshot
+<img width="429" height="549" alt="image" src="https://github.com/user-attachments/assets/4f5c56ff-90bb-4faf-81e9-290a6ddfdd13" alt="context menu"/>
+
+<img width="650" height="639" alt="image" src="https://github.com/user-attachments/assets/62f94937-4ea2-4a4c-8fa5-9c8c7e85ab1f" alt="settings" />
+
 ## ✨ Fonctionnalités
 
 - **Redirection automatique** : Détecte et redirige automatiquement les articles Medium bloqués
