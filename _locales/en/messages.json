@@ -4,6 +4,10 @@
   "menuTitle": { "message": "Open with Freedium" },
   "optionLanguage": { "message": "Language" },
   "optionMode": { "message": "Mode" },
-  "modeAuto": { "message": "Automatic redirect (premium)" },
-  "modeManual": { "message": "Manual via context menu" }
+  "optionDomains": { "message": "Medium Domains" },
+  "modeAuto": { "message": "Automatic redirect (all articles)" },
+  "modeManual": { "message": "Manual via context menu" },
+  "addCurrentDomain": { "message": "Add current domain to list" },
+  "bannerMessage": { "message": "Read this article for free on Freedium" },
+  "bannerButton": { "message": "Read on Freedium" }
 }

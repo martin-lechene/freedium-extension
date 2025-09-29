@@ -4,6 +4,10 @@
   "menuTitle": { "message": "Ouvrir avec Freedium" },
   "optionLanguage": { "message": "Langue" },
   "optionMode": { "message": "Mode" },
-  "modeAuto": { "message": "Redirection automatique (premium)" },
-  "modeManual": { "message": "Manuel via clic droit" }
+  "optionDomains": { "message": "Domaines Medium" },
+  "modeAuto": { "message": "Redirection automatique (tous les articles)" },
+  "modeManual": { "message": "Manuel via clic droit" },
+  "addCurrentDomain": { "message": "Ajouter le domaine actuel à la liste" },
+  "bannerMessage": { "message": "Lire cet article gratuitement sur Freedium" },
+  "bannerButton": { "message": "Lire sur Freedium" }
 }
