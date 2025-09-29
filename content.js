@@ -30,6 +30,11 @@
   function isMediumSite(url) {
     if (!url) return false;
     
+    // Éviter la boucle infinie : ne pas traiter freedium.cfd comme un site Medium
+    if (url.includes('freedium.cfd')) {
+      return false;
+    }
+    
     // Vérifier les domaines connus
     for (const domain of MEDIUM_DOMAINS) {
       if (url.includes(domain)) {
